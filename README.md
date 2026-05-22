@@ -17,3 +17,7 @@ This repository contains Governance, Risk, and Compliance (GRC) portfolio projec
 
 ## Purpose
 These projects were developed for educational and portfolio purposes to demonstrate practical GRC and cybersecurity documentation skills.
+
+## Prepared By
+Zainab Adewumi Taofeek
+GRC Analyst 
